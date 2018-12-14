@@ -1,4 +1,4 @@
-print Calculadora
+print "Calculadora"
 
 a = input ("Digite un numero: ")
 
