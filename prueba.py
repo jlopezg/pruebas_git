@@ -1,4 +1,5 @@
 import random
 
 while True:
-    print(random.randint(0, 5), end="")
+
+    print(random.randint(0, 10), end="")
