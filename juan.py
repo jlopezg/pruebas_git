@@ -1,3 +1,5 @@
+print "Calculadora"
+
 a = input ("Digite un numero: ")
 
 b = input ("Digite otro numero: ")
